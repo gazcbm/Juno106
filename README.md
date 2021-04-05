@@ -81,7 +81,7 @@ https://photos.app.goo.gl/bYYfmSNdXnMoHRXN6
 
 ## VCA Offset
 
-![offset](4. VCA OFFSET\offset.jpg)
+<img src="4. VCA OFFSET\offset.jpg" alt="VCA-Offset" style="zoom:50%;" />
 
 **Example Voice 1 before calibration**
 
