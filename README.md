@@ -65,7 +65,7 @@ https://photos.app.goo.gl/bYYfmSNdXnMoHRXN6
 
 ## DCO CV Offset (Module Board)
 
-<img src="2.DCO CV Offset/dcoffset.jpg" alt="DCOOffset" style="zoom:50%;" />
+<img src="2.DCO CV Offset/dcooffset.JPG" alt="DCOOffset" style="zoom:50%;" />
 
 <img src="2.DCO CV Offset/DCO.jpg" alt="DCO" style="zoom:50%;" />
 
