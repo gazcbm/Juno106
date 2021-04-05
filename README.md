@@ -114,8 +114,7 @@ https://photos.app.goo.gl/bYYfmSNdXnMoHRXN6
 
 
 ## VCF Resonance (Module Board)
-
-![vcaresserv](VCF RES/vcaresserv.JPG)
+<img src="VCF RES/vcaresserv.JPG" alt="vcaresserv.JPG" style="zoom:50%;" />
 
 **Voice 1**
 
@@ -144,8 +143,7 @@ https://photos.app.goo.gl/bYYfmSNdXnMoHRXN6
 
 
 ## VCA Gain (Module Board)
-
-![vcagain-serv](6.VCA Gain/vcagain-serv.JPG)
+<img src="6.VCA Gain/vcagain-serv.JPG" alt="VCA-GAINsrv" style="zoom:50%;" />
 
 **Voice 1**
 
@@ -174,8 +172,8 @@ https://photos.app.goo.gl/bYYfmSNdXnMoHRXN6
 
 
 ## VCF Frequency (Module Board)
+<img src="7.VCF Freq/vcffreq.JPG" alt="VCF-Freq" style="zoom:50%;" />
 
-![vcffreq](7.VCF Freq/vcffreq.JPG)
 
 **Voice 1**
 
@@ -205,7 +203,7 @@ https://photos.app.goo.gl/bYYfmSNdXnMoHRXN6
 
 ## VCA Width (Module Board)
 
-![width](8.VCF Width/width.JPG)
+<img src="8.VCF Width/width.JPG" alt="VCF-Width" style="zoom:50%;" />
 
 **Voice 1**
 
@@ -284,15 +282,15 @@ https://photos.app.goo.gl/bYYfmSNdXnMoHRXN6
 
 
 ## Chorus Bias (Jack Board)
+<img src="11.Chorus Bias/cbias.JPG" alt="choruss bias" style="zoom:50%;" />
 
-![cbias](11.Chorus Bias/cbias.JPG)
 
 <img src="11.Chorus Bias/cb1.bmp" alt="cb1" style="zoom:50%;" /><img src="11.Chorus Bias/cb2.bmp" alt="cb2" style="zoom:50%;" />
 
 
 
 ## Load Offset (Jack Board)
+<img src="12. Load Offset\Loffset.JPG" alt="load offset" style="zoom:50%;" />
 
-![Loffset](12. Load Offset\Loffset.JPG)
 
 <img src="12. Load Offset\loadoffset.jpg" alt="loadoffset" style="zoom:50%;" />
