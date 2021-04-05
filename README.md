@@ -34,7 +34,8 @@ https://photos.app.goo.gl/bYYfmSNdXnMoHRXN6
 
 ## DC Supply Voltages (Power Supply Board)
 
-![DCSupply](1.DC Supply Voltages\DCSupply.JPG)
+<img src="1.DC Supply Voltages/DCSupply.JPG" alt="DCSupplysrv" style="zoom:50%;" />
+
 
 **Test Point A**
 
@@ -64,7 +65,7 @@ https://photos.app.goo.gl/bYYfmSNdXnMoHRXN6
 
 ## DCO CV Offset (Module Board)
 
-![dcooffset](2.DCO CV Offset/dcooffset.JPG)
+<img src="2.DCO CV Offset/dcooffset.jpg" alt="DCOOffset" style="zoom:50%;" />
 
 <img src="2.DCO CV Offset/DCO.jpg" alt="DCO" style="zoom:50%;" />
 
