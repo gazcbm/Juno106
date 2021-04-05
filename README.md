@@ -65,7 +65,7 @@ https://photos.app.goo.gl/bYYfmSNdXnMoHRXN6
 
 ## DCO CV Offset (Module Board)
 
-<img src="2.DCO CV Offset/dcooffset.jpg" alt="DCOOffset" style="zoom:50%;" />
+<img src="2.DCO CV Offset/dcoffset.jpg" alt="DCOOffset" style="zoom:50%;" />
 
 <img src="2.DCO CV Offset/DCO.jpg" alt="DCO" style="zoom:50%;" />
 
@@ -73,7 +73,7 @@ https://photos.app.goo.gl/bYYfmSNdXnMoHRXN6
 
 ## VCA Bias (Module Board)
 
-![biassrv](3.VCA BIas/biassrv.JPG)
+<img src="3.VCA BIas/biassrv.JPG" alt="vcabias" style="zoom:50%;" />
 
 <img src="3.VCA BIas/vcabias.jpg" alt="vcabias" style="zoom:50%;" />
 
